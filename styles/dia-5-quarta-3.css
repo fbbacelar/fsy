@@ -1,0 +1,212 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.dia-5-quarta-3-iVH {
+  box-sizing: border-box;
+  padding-top: 3.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(165, 19, 255, 0.2399999946) -0%, rgba(180, 3, 99, 0.4600000083) 50%, rgba(196, 106, 0, 0.6499999762) 100%);
+}
+.dia-5-quarta-3-iVH .auto-group-uvth-qZu {
+  margin: 0rem 2.6rem 1.6rem 2.7rem;
+  width: calc(100% - 5.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-uvth-qZu .back-myM {
+  margin: 0.144rem 1.5rem 0rem 0rem;
+  width: 1.3rem;
+  height: 2.0441rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-uvth-qZu .programao-Wg3 {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #f7962d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .line-1-eXM {
+  width: 100%;
+  height: 0.3rem;
+  background-color: #f7962d;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh {
+  box-sizing: border-box;
+  padding: 1.4rem 2.6rem 12.7rem 2.7rem;
+  width: 100%;
+  row-gap: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-1-H4X {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-1-H4X .relogio-1-Si7 {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-1-H4X .at-1-yxw {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-7-w95 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-7-w95 .silhueta-do-grupo-de-usuarios-1-WCB {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-7-w95 .at-2-RK9 {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-4-YPm {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-4-YPm .silhueta-do-grupo-de-usuarios-1-HMM {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-4-YPm .at-2-RTZ {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-5-yjy {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-5-yjy .silhueta-do-grupo-de-usuarios-1-9eT {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-5-yjy .at-2-FxP {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-6-cY3 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-6-cY3 .silhueta-do-grupo-de-usuarios-1-Nn7 {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-6-cY3 .at-2-6TD {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-3-rBV {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-3-rBV .pessoa-1-25y {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-5-quarta-3-iVH .auto-group-c9hm-bBh .group-3-rBV .at-3-9RV {
+  max-width: 29.4rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}

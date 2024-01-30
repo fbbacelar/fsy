@@ -1,0 +1,237 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.dia-4-tera-7-T63 {
+  box-sizing: border-box;
+  padding-top: 1.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(165, 19, 255, 0.2399999946) -0%, rgba(180, 3, 99, 0.4600000083) 50%, rgba(196, 106, 0, 0.6499999762) 100%);
+}
+.dia-4-tera-7-T63 .auto-group-o73h-BXq {
+  margin: 0rem 1.2rem 0.5rem 2.7rem;
+  width: calc(100% - 3.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-o73h-BXq .back-vEX {
+  margin: 0.844rem 1.5rem 0rem 0rem;
+  width: 1.3rem;
+  height: 2.0441rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-o73h-BXq .programao-2oM {
+  max-width: 30.8rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #f7962d;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .line-1-xwu {
+  width: 100%;
+  height: 0.3rem;
+  background-color: #f7962d;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 {
+  box-sizing: border-box;
+  padding: 1.4rem 2.6rem 35.9rem 2.7rem;
+  width: 100%;
+  row-gap: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-1-bjy {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-1-bjy .relogio-1-mPZ {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-1-bjy .at-1-6Rq {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-2-SVh {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-2-SVh .silhueta-do-grupo-de-usuarios-1-or3 {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-2-SVh .at-2-LLB {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-7-4X5 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-7-4X5 .pessoa-1-2Tu {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-7-4X5 .at-3-aEX {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-4-819 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-4-819 .pessoa-1-Hud {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-4-819 .at-3-adq {
+  max-width: 29.4rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-5-gwm {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-5-gwm .pessoa-1-Thd {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-5-gwm .at-3-Qsm {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-6-mCX {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-6-mCX .pessoa-1-8Hy {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-6-mCX .at-3-Guy {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-3-of1 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-3-of1 .pessoa-1-Ni7 {
+  margin-right: 0.7rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dia-4-tera-7-T63 .auto-group-pzsm-iw5 .group-3-of1 .at-3-VXq {
+  max-width: 29.4rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}

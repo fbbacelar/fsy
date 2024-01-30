@@ -1,0 +1,66 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.iphone-13-mini-3-2yR {
+  box-sizing: border-box;
+  padding: 3.2rem 0rem 19.4rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(165, 19, 255, 0.2399999946) -0%, rgba(180, 3, 99, 0.4600000083) 50%, rgba(196, 106, 0, 0.6499999762) 100%);
+}
+.iphone-13-mini-3-2yR .auto-group-bx5v-ZCf {
+  margin: 0rem 2.6rem 1.5rem 2.7rem;
+  width: calc(100% - 5.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.iphone-13-mini-3-2yR .auto-group-bx5v-ZCf .back-H8f {
+  margin: 0rem 1.5rem 0.056rem 0rem;
+  width: 1.3rem;
+  height: 2.0441rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-13-mini-3-2yR .auto-group-bx5v-ZCf .casal-diretor-cAw {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-mini-3-2yR .auto-group-fs9m-JJf {
+  box-sizing: border-box;
+  padding: 0rem 1.1rem 0rem 1.2rem;
+  width: 100%;
+  border-top: solid 0.3rem #f7962d;
+  flex-shrink: 0;
+}
+.iphone-13-mini-3-2yR .auto-group-fs9m-JJf .image-2-Ey1 {
+  width: 35.2rem;
+  height: 54.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
